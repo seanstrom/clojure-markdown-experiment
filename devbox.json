@@ -1,0 +1,14 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.14.0/.schema/devbox.schema.json",
+  "packages": [
+    "bun@1.2.5",
+    "babashka@1.12.196",
+    "clojure@1.12.0",
+    "openjdk_headless@17.0.3",
+    "nodejs@18"
+  ],
+  "env": {
+    "DEVBOX_COREPACK_ENABLED": "1"
+  },
+  "shell": {}
+}

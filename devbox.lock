@@ -1,0 +1,223 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "babashka@1.12.196": {
+      "last_modified": "2025-03-16T23:54:35Z",
+      "resolved": "github:NixOS/nixpkgs/5d9b5431f967007b3952c057fc92af49a4c5f3b2#babashka",
+      "source": "devbox-search",
+      "version": "1.12.196",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/a0hwcdrzahisvir69ga0p5wrmq3pw8c4-babashka-1.12.196",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/a0hwcdrzahisvir69ga0p5wrmq3pw8c4-babashka-1.12.196"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/hr4inic07n7yn4w8xp7s8x7jnmvbxkys-babashka-1.12.196",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/hr4inic07n7yn4w8xp7s8x7jnmvbxkys-babashka-1.12.196"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/ppkms9l5zfzn0178l8dyxqra7vrb1rr7-babashka-1.12.196",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/ppkms9l5zfzn0178l8dyxqra7vrb1rr7-babashka-1.12.196"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/yxc8a4aya7f7dijdxyzx59g1ks9jvj2v-babashka-1.12.196",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/yxc8a4aya7f7dijdxyzx59g1ks9jvj2v-babashka-1.12.196"
+        }
+      }
+    },
+    "bun@1.2.5": {
+      "last_modified": "2025-03-13T11:38:39Z",
+      "resolved": "github:NixOS/nixpkgs/573c650e8a14b2faa0041645ab18aed7e60f0c9a#bun",
+      "source": "devbox-search",
+      "version": "1.2.5",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/rzf81xw57rp8vqjwchbcsqb2fy4j51bm-bun-1.2.5",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/rzf81xw57rp8vqjwchbcsqb2fy4j51bm-bun-1.2.5"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/2rqxjvjk0dmr1wjw4sqy3grx3y6brk2c-bun-1.2.5",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/2rqxjvjk0dmr1wjw4sqy3grx3y6brk2c-bun-1.2.5"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/6nnqxvad5qw8clhawzabld44zngj76j7-bun-1.2.5",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/6nnqxvad5qw8clhawzabld44zngj76j7-bun-1.2.5"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/g8k9g77pf9a1pqbjhfnsh6qam4j5a3cg-bun-1.2.5",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/g8k9g77pf9a1pqbjhfnsh6qam4j5a3cg-bun-1.2.5"
+        }
+      }
+    },
+    "clojure@1.12.0": {
+      "last_modified": "2025-03-11T17:52:14Z",
+      "resolved": "github:NixOS/nixpkgs/0d534853a55b5d02a4ababa1d71921ce8f0aee4c#clojure",
+      "source": "devbox-search",
+      "version": "1.12.0.1517",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/143v712nrzqkcv60rhh1rxc1kxxa1hfl-clojure-1.12.0.1517",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/143v712nrzqkcv60rhh1rxc1kxxa1hfl-clojure-1.12.0.1517"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/xlhbpmms72jwsnqgbc955wsd8f9rhjy2-clojure-1.12.0.1517",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/xlhbpmms72jwsnqgbc955wsd8f9rhjy2-clojure-1.12.0.1517"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/kq2kx9hfhlbcmjhkqar2g82x1brxb4hh-clojure-1.12.0.1517",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/kq2kx9hfhlbcmjhkqar2g82x1brxb4hh-clojure-1.12.0.1517"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/3k3pzjawkxi19ri0nnm2xjc6fw8zik6c-clojure-1.12.0.1517",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/3k3pzjawkxi19ri0nnm2xjc6fw8zik6c-clojure-1.12.0.1517"
+        }
+      }
+    },
+    "github:NixOS/nixpkgs/nixpkgs-unstable": {
+      "resolved": "github:NixOS/nixpkgs/94c4dbe77c0740ebba36c173672ca15a7926c993?lastModified=1742578646&narHash=sha256-GiQ40ndXRnmmbDZvuv762vS%2Bgew1uDpFwOfgJ8tLiEs%3D"
+    },
+    "nodejs@18": {
+      "last_modified": "2025-03-11T17:52:14Z",
+      "plugin_version": "0.0.2",
+      "resolved": "github:NixOS/nixpkgs/0d534853a55b5d02a4ababa1d71921ce8f0aee4c#nodejs_18",
+      "source": "devbox-search",
+      "version": "18.20.7",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/9pca66nn9bjdhcpcjcv3c0cg11gfv0ra-nodejs-18.20.7",
+              "default": true
+            },
+            {
+              "name": "libv8",
+              "path": "/nix/store/d0jg12xgcizycgcw6n7alszffmmh1822-nodejs-18.20.7-libv8"
+            }
+          ],
+          "store_path": "/nix/store/9pca66nn9bjdhcpcjcv3c0cg11gfv0ra-nodejs-18.20.7"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/bc08zbvpyz30ra2jgvri9vxbkvr8y8jx-nodejs-18.20.7",
+              "default": true
+            },
+            {
+              "name": "libv8",
+              "path": "/nix/store/w2mr9v54xk9dbiay616s7ln5wy4cskn1-nodejs-18.20.7-libv8"
+            }
+          ],
+          "store_path": "/nix/store/bc08zbvpyz30ra2jgvri9vxbkvr8y8jx-nodejs-18.20.7"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/gcnf27mp4xbn4l39yzddmdhp583vmcwm-nodejs-18.20.7",
+              "default": true
+            },
+            {
+              "name": "libv8",
+              "path": "/nix/store/nvbqr13l5l0jgg8q1gz5j08llkwgsxr7-nodejs-18.20.7-libv8"
+            }
+          ],
+          "store_path": "/nix/store/gcnf27mp4xbn4l39yzddmdhp583vmcwm-nodejs-18.20.7"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/8wq28rxvbkpsqs7j818znjzxnqy4i72c-nodejs-18.20.7",
+              "default": true
+            },
+            {
+              "name": "libv8",
+              "path": "/nix/store/mzh3bbq0jw2rcnzp09g3c8m3ncgxdarl-nodejs-18.20.7-libv8"
+            }
+          ],
+          "store_path": "/nix/store/8wq28rxvbkpsqs7j818znjzxnqy4i72c-nodejs-18.20.7"
+        }
+      }
+    },
+    "openjdk_headless@17.0.3": {
+      "last_modified": "2022-11-21T15:52:25Z",
+      "resolved": "github:NixOS/nixpkgs/6b5019a48f876f3288efc626fa8b70ad0c64eb46#openjdk_headless",
+      "source": "devbox-search",
+      "version": "17.0.3"
+    }
+  }
+}
