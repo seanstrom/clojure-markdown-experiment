@@ -1,0 +1,9 @@
+{:deps true
+ :nrepl {:port 8427}
+ :builds {:server {:output-dir "./cljs-dist/server"
+                   :target :esm
+                   :js-options {:js-provider :import}
+                   :runtime :custom
+                   :devtools {:client-ns server.devtools}
+                   :modules {:server.main {:exports {main server.server/main}}}
+                   :release {:compiler-options {:optimizations :advanced}}}}}
