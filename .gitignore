@@ -1,6 +1,7 @@
 .cpcache
 
 .calva/
+.clj-kondo/
 .shadow-cljs/
 cljs-dist/
 dist/
