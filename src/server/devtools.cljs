@@ -15,8 +15,8 @@
    [shadow.remote.runtime.shared :as shared]
    ["ws" :refer [default]]))
 
-(def ws-impl js/WebSocket)
-#_(def ws-impl default)
+#_(def ws-impl js/WebSocket)
+(def ws-impl default)
 
 (defn devtools-msg [msg & args]
   (when env/log
