@@ -31,6 +31,7 @@ export default defineConfig({
   resolve: {
     alias: {
       "#cljs": path.resolve(__dirname, "cljs-dist/"),
+      "markie-mark": path.resolve(__dirname, "shims/markdown.mjs"),
     },
   },
 })
